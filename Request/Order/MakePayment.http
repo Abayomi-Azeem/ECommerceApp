@@ -1,0 +1,2 @@
+POST   https://localhost:7196/order/makepayment?orderId=66487A41-7285-429D-9866-3AA99FD3B822&amount=30000
+Content-Type: application/json

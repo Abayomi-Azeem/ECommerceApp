@@ -1,0 +1,2 @@
+GET  https://localhost:7196/order/vieworderstatus?orderId=66487A41-7285-429D-9866-3AA99FD3B822
+Content-Type: application/json

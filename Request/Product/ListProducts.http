@@ -1,0 +1,3 @@
+GET  https://localhost:7196/product/listproducts?pageNumber=1
+Content-Type: application/json
+

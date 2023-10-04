@@ -1,0 +1,2 @@
+POST  https://localhost:7196/product/rateproduct?productId=3F40F479-A1C0-48FE-9FE6-1B3895D1F997&rating=4
+Content-Type: application/json

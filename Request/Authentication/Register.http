@@ -1,0 +1,11 @@
+POST https://localhost:7196/auth/register
+Content-Type: application/json
+
+{
+    "firstname" : "Abayomi",
+    "lastname"  : "Oyaifo",
+    "email"     : "abayomiOyaifo@gmail.com",
+    "password"  : "abayomi",
+    "gender"    : "male",
+    "homeaddress": "Lagos"
+}

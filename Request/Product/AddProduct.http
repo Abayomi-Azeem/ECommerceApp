@@ -1,0 +1,33 @@
+POST  https://localhost:7196/product/addproduct
+Content-Type: multipart/form-data; boundary="-mfnboundary---"
+
+---mfnboundary---
+Content-Disposition: form-data; name="name"
+
+Corolla
+---mfnboundary---
+Content-Disposition: form-data; name="price"
+
+25000
+---mfnboundary---
+Content-Disposition: form-data; name="make"
+
+Toyota
+---mfnboundary---
+Content-Disposition: form-data; name="model"
+
+2008
+---mfnboundary---
+Content-Disposition: form-data; name="type"
+
+Car
+---mfnboundary---
+Content-Disposition: form-data; name="quantityavailable"
+
+20
+---mfnboundary---
+Content-Disposition: form-data; name="image"; filename="car1.jpg"
+Content-Type: image/jpeg
+
+< ./car1.jpg
+---mfnboundary-----

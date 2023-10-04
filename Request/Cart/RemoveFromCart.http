@@ -1,0 +1,2 @@
+POST https://localhost:7196/cart/removefromcart?cartId=83C0FDFE-47DB-491C-A1B6-EAA8B730082C&productId=3F40F479-A1C0-48FE-9FE6-1B3895D1F997
+Content-Type: application/json
